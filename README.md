@@ -2,7 +2,7 @@
 powered by [Sia Skynet](https://www.siasky.net)
 
 #### Description:
-Library for LabVIEW to up- and download files to Sia Skynet
+LabVIEW is a programming environment which is widley used in automated test and measurement industry. This library is made to easily upload or download your measurement data or any other files in your LabVIEW Applications. Which just one VI you can upload your files to Skynet. Implemented with nativ LabVIEW functions. So now additional library or toolkit is required.
 
 
 ### Demo Video
@@ -14,7 +14,7 @@ Demonstrate how to easily fetch meta information from multiple skylinks.
 ![Gif of Demo Video](https://github.com/cycleworm/SiaSkynet-LabVIEW-API/blob/master/docu/SiaSkynetAPI.gif)
 
 
-### Library ovrview
+### Library overview
 ![api](https://github.com/cycleworm/SiaSkynet-LabVIEW-API/blob/master/docu/api.png)
 
 #### Source Code Example to fetch meta data
