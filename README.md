@@ -6,7 +6,7 @@ powered by [Sia Skynet](https://www.siasky.net)
 ### This is the direct link to the latest deployed version -> [Link](https://siasky.net/FADdLUVmfCDhekv8liHPWju3pYbk2WUr6n6e12CB8fYs1Q/Index.html)
 
 ### Demo Video
-[Skylink Video URL](https://siasky.net/_AJ4ZSoHcqYHAbbXDuIAhAqG2Yte6LJ0SDd1_SDR-Zl7NA)
+[Skylink Video URL](https://siasky.net/HAAMWufRAGHK-3_ndJNEHJ2XFulN-knGe_sckNGOzw1s9g)
 
 
 Demonstrate how to easily fetch meta information from multiple skylinks.
