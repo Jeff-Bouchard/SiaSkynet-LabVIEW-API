@@ -8,12 +8,23 @@ powered by [Sia Skynet](https://www.siasky.net)
 ### Demo Video
 [Skylink Video URL](https://siasky.net/_AJ4ZSoHcqYHAbbXDuIAhAqG2Yte6LJ0SDd1_SDR-Zl7NA)
 
-![Gif of Demo Video](https://github.com/cycleworm/dataviewer/blob/master/assets/SiaSkynetDataviewerDemo.gif)
+
+Demonstrate how to easily fetch meta information from multiple skylinks.
+
+![Gif of Demo Video](https://github.com/cycleworm/SiaSkynet-LabVIEW-API/blob/master/docu/SiaSkynetAPI.gif)
 
 #### Description:
 Library for LabVIEW to up- and download files to Sia Skynet
 
-#### Source Code:
+### Library ovrview
+![fetch](https://github.com/cycleworm/SiaSkynet-LabVIEW-API/blob/master/docu/lib.png)
+![api](https://github.com/cycleworm/SiaSkynet-LabVIEW-API/blob/master/docu/api.png)
+
+#### Source Code Example to fetch meta data
+![fetch](https://github.com/cycleworm/SiaSkynet-LabVIEW-API/blob/master/docu/fetch.png)
+
+
+#### Source Code
 
 To view edit or build the source code you need LabVIEW 2020. The Community Edition is free for non commercial projects. 
 [LabVIEW NXG 5.0 Community Edition](https://www.ni.com/da-dk/support/downloads/software-products/download.labview-community.html)
