@@ -15,7 +15,6 @@ Demonstrate how to easily fetch meta information from multiple skylinks.
 
 
 ### Library ovrview
-![fetch](https://github.com/cycleworm/SiaSkynet-LabVIEW-API/blob/master/docu/lib.png)
 ![api](https://github.com/cycleworm/SiaSkynet-LabVIEW-API/blob/master/docu/api.png)
 
 #### Source Code Example to fetch meta data
